@@ -52,8 +52,6 @@ INSTALLED_APPS = [
     "rest_auth",
     "corsheaders",
     "reversion",
-    "ckeditor",
-    "ckeditor_uploader",
     "raven.contrib.django.raven_compat",
     "import_export",
     # Our app
